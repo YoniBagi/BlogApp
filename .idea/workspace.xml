@@ -11,9 +11,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="234c9d99-05ad-47be-8221-3f343c56c728" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/context/createDataContext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/ShowScreen.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/context/BlogContext.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/context/BlogContext.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/screens/IndexScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/IndexScreen.js" afterDir="false" />
     </list>
@@ -57,7 +58,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603706543272</updated>
       <workItem from="1603706544394" duration="484000" />
-      <workItem from="1603709112945" duration="9827000" />
+      <workItem from="1603709112945" duration="13387000" />
     </task>
     <servers />
   </component>
