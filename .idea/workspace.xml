@@ -11,14 +11,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="234c9d99-05ad-47be-8221-3f343c56c728" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/blogApp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/context/BlogContext.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/screens/IndexScreen.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/context/BlogContext.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/context/BlogContext.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/IndexScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/IndexScreen.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +52,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603706543272</updated>
       <workItem from="1603706544394" duration="484000" />
-      <workItem from="1603709112945" duration="5816000" />
+      <workItem from="1603709112945" duration="7609000" />
     </task>
     <servers />
   </component>
@@ -74,5 +69,15 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-102" y="-636" width="538" height="192" key="Github.ShareDialog" timestamp="1603793574711">
+      <screen x="-942" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="-102" y="-636" width="538" height="192" key="Github.ShareDialog/0.23.1440.877/-942.-1080.1920.1080@-942.-1080.1920.1080" timestamp="1603793574711" />
+    <state x="-317" y="-839" width="670" height="676" key="search.everywhere.popup" timestamp="1603797580286">
+      <screen x="-942" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="-317" y="-839" width="670" height="676" key="search.everywhere.popup/0.0.1440.900/-942.-1080.1920.1080@-942.-1080.1920.1080" timestamp="1603797580286" />
   </component>
 </project>
